@@ -11,7 +11,7 @@ Droidík is a small desktop tool for running Android apps without dealing with a
 
 Most Android emulators are built around pretending that your computer is an Android tablet or phone. That's overkill if you just want to run an app. Droidík aims to make Android apps feel more like normal desktop applications.
 
-Eventually, using it should be as simple as:
+Using it should be as simple as:
 
 ```bash
 droidik app.apk
@@ -21,7 +21,7 @@ or just double-clicking an APK.
 
 ## How it works
 
-Droidík is not a new Android emulator. Instead, it uses an existing Android runtime/emulator underneath and handles the annoying parts for you:
+Droidík uses an existing Android runtime/emulator underneath and handles the annoying parts for you:
 
 * starting Android in the background
 * installing the APK
@@ -29,7 +29,7 @@ Droidík is not a new Android emulator. Instead, it uses an existing Android run
 * showing the app in a normal desktop window
 * shutting everything down when you're done
 
-The Android system itself should mostly stay out of sight.
+Android itself should mostly stay out of sight.
 
 ## Goals
 
