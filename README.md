@@ -1,4 +1,9 @@
+<div align=center>
+
 # Droidík
+###### a tiny APK runtime aiming to make the Android experience of running APKs on your system seem seamless and integrated into the whole OS
+
+</div>
 
 Droidík is a small desktop tool for running Android apps without dealing with a full Android emulator UI. The idea is simple: give Droidík an APK, and it starts a lightweight Android environment in the background and opens the app in its own window.
 
